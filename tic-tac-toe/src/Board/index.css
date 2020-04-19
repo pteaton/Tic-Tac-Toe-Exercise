@@ -1,0 +1,18 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 10px;
+}
+
+ol, ul {
+  padding-left: 15px;
+}
+
+.board-row:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.status {
+  margin-bottom: 10px;
+}
