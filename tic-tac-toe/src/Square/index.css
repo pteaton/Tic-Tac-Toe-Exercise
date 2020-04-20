@@ -11,3 +11,11 @@
   text-align: center;
   width: 32px;
 }
+
+.square:focus {
+  outline: none;
+}
+
+.square:focus {
+  background: mistyrose;
+}
