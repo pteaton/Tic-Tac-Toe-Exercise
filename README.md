@@ -1,8 +1,7 @@
-![GA Cog](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
+## Tic Tac Toe Exercise
 
-# React Tic Tac Toe
+# Play a game of tic tac toe !
 
-Complete [this tutorial from the React docs](https://reactjs.org/tutorial/tutorial.html), committing as you go.  **You must have at least 10 commits to receive credit for this homework assignment.**  
+# Technology Used: React
 
-Build the app in a folder on your computer (not codepen) [somewhat along the lines of these instructions](https://reactjs.org/tutorial/tutorial.html#setup-option-2-local-development-environment).  Create a react app inside this repository the way we have been, and grab the starter code for the components and you should be good.  It is also recommended that you use separate files for the Square, Board, and Game components.
-
+Assignment completed during time at General Assembly's Software Engineering Immersive Program
