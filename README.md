@@ -1,6 +1,6 @@
 # Tic Tac Toe Exercise
 
-# Play a game of tic tac toe !
+User can play a game of tic tac toe !
 
 Technology Used: React
 
